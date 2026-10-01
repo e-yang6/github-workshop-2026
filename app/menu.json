@@ -22,7 +22,9 @@
       "sizes": [
         "12oz",
         "16oz"
-      ]
+      ],
+      "price": 5.25,
+      "featured": true
     }
   ]
 }
